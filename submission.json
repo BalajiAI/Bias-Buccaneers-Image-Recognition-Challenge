@@ -1,0 +1,16 @@
+{
+    "submission_name": "Test Submission",
+    "score": 5.570905798768945,
+    "metrics": {
+        "accuracy": {
+            "skin_tone": 0.253,
+            "gender": 0.8146666666666667,
+            "age": 0.598
+        },
+        "disparity": {
+            "skin_tone": 0.36016260162601627,
+            "gender": 0.1818600271994978,
+            "age": 0.5287647340141222
+        }
+    }
+}
