@@ -1,5 +1,5 @@
 # Bias-Buccaneers-Image-Recognition-Challenge
-This repository contains the solution code for the Bias Buccaneers Image Recognition Challenge organized by [biasbounty.ai](https://biasbounty.ai/) to fight against algorithmic bias.
+This repository contains the solution code for the Bias Buccaneers Image Recognition Challenge organized by [biasbounty.ai](https://biasbounty.ai/) to fight against algorithmic bias. This repo contains code for both Supervised and Unsupervised Solutions. Open the respective folder and follow the below steps to run the solution code.
 
 ## Running the notebooks
 1. First download & extract the challenge dataset.
