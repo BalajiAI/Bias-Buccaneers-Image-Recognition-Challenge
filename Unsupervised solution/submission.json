@@ -1,0 +1,16 @@
+{
+    "submission_name": "Unsupervised Submission",
+    "score": 2.101102453729858,
+    "metrics": {
+        "accuracy": {
+            "skin_tone": 0.20033333333333334,
+            "gender": 0.6176666666666667,
+            "age": 0.49033333333333334
+        },
+        "disparity": {
+            "skin_tone": 0.7798165137614679,
+            "gender": 0.7280189699061965,
+            "age": 0.9093425605536333
+        }
+    }
+}
